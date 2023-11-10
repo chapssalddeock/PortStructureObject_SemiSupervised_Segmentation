@@ -1,4 +1,4 @@
-# PortStructureObject_SemiSupervised_Segmentation
+# 🚢 PortStructureObject_SemiSupervised_Segmentation
 
 준지도학습 기반의 항만 구조물 객체 분할 문제 (2022/06/07~2022/06/21)
 
